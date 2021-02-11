@@ -1,0 +1,22 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-02-11 11:47:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2021-02-11 11:44:55 -0300",
+      "minecraft:river": "2021-02-11 11:44:37 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-02-11 11:49:10 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

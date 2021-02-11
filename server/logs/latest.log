@@ -1,0 +1,968 @@
+[11:37:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:37:51] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:37:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:37:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:37:51] [main/INFO]: Reloading ResourceManager: Default
+[11:37:52] [Worker-Main-5/INFO]: Loaded 7 recipes
+[11:37:52] [Worker-Main-5/INFO]: Loaded 927 advancements
+[11:37:55] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[11:37:55] [Server thread/INFO]: Loading properties
+[11:37:55] [Server thread/INFO]: Default game type: SURVIVAL
+[11:37:55] [Server thread/INFO]: Generating keypair
+[11:37:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:37:56] [Server thread/INFO]: Using default channel type
+[11:37:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:37:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:37:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:37:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:37:58] [Server thread/INFO]: Preparing level "world"
+[11:37:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 0%
+[11:38:01] [Server thread/INFO]: Preparing spawn area: 28%
+[11:38:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:10] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:11] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:12] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:12] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:12] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:13] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:13] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[11:38:14] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[11:38:14] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:15] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[11:38:15] [Server thread/INFO]: Preparing spawn area: 83%
+[11:38:16] [Worker-Main-4/INFO]: Preparing spawn area: 84%
+[11:38:16] [Worker-Main-7/INFO]: Preparing spawn area: 85%
+[11:38:17] [Worker-Main-4/INFO]: Preparing spawn area: 85%
+[11:38:17] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[11:38:18] [Worker-Main-8/INFO]: Preparing spawn area: 91%
+[11:38:18] [Worker-Main-8/INFO]: Preparing spawn area: 93%
+[11:38:19] [Server thread/INFO]: Preparing spawn area: 93%
+[11:38:19] [Server thread/INFO]: Preparing spawn area: 97%
+[11:38:19] [Server thread/INFO]: Time elapsed: 20650 ms
+[11:38:19] [Server thread/INFO]: Done (20.831s)! For help, type "help"
+[11:38:19] [Server thread/INFO]: Starting remote control listener
+[11:38:19] [Server thread/INFO]: Thread RCON Listener started
+[11:38:19] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[11:38:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:38:33] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:39:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:39:35] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:39:52] [Server thread/INFO]: /advancement (grant|revoke)
+[11:39:52] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[11:39:52] [Server thread/INFO]: /ban <targets> [<reason>]
+[11:39:52] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[11:39:52] [Server thread/INFO]: /banlist [ips|players]
+[11:39:52] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[11:39:52] [Server thread/INFO]: /clear [<targets>]
+[11:39:52] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[11:39:52] [Server thread/INFO]: /data (get|merge|modify|remove)
+[11:39:52] [Server thread/INFO]: /datapack (disable|enable|list)
+[11:39:52] [Server thread/INFO]: /debug (report|start|stop)
+[11:39:52] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[11:39:52] [Server thread/INFO]: /deop <targets>
+[11:39:52] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[11:39:52] [Server thread/INFO]: /effect (clear|give)
+[11:39:52] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[11:39:52] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[11:39:52] [Server thread/INFO]: /experience (add|query|set)
+[11:39:52] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[11:39:52] [Server thread/INFO]: /forceload (add|query|remove)
+[11:39:52] [Server thread/INFO]: /function <name>
+[11:39:52] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[11:39:52] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[11:39:52] [Server thread/INFO]: /give <targets> <item> [<count>]
+[11:39:52] [Server thread/INFO]: /help [<command>]
+[11:39:52] [Server thread/INFO]: /kick <targets> [<reason>]
+[11:39:52] [Server thread/INFO]: /kill [<targets>]
+[11:39:52] [Server thread/INFO]: /list [uuids]
+[11:39:52] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[11:39:52] [Server thread/INFO]: /locatebiome <biome>
+[11:39:52] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[11:39:52] [Server thread/INFO]: /me <action>
+[11:39:52] [Server thread/INFO]: /msg <targets> <message>
+[11:39:52] [Server thread/INFO]: /op <targets>
+[11:39:52] [Server thread/INFO]: /pardon <targets>
+[11:39:52] [Server thread/INFO]: /pardon-ip <target>
+[11:39:52] [Server thread/INFO]: /particle <name> [<pos>]
+[11:39:52] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[11:39:52] [Server thread/INFO]: /recipe (give|take)
+[11:39:52] [Server thread/INFO]: /reload
+[11:39:52] [Server thread/INFO]: /replaceitem (block|entity)
+[11:39:52] [Server thread/INFO]: /save-all [flush]
+[11:39:52] [Server thread/INFO]: /save-off
+[11:39:52] [Server thread/INFO]: /save-on
+[11:39:52] [Server thread/INFO]: /say <message>
+[11:39:52] [Server thread/INFO]: /schedule (clear|function)
+[11:39:52] [Server thread/INFO]: /scoreboard (objectives|players)
+[11:39:52] [Server thread/INFO]: /seed
+[11:39:52] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[11:39:52] [Server thread/INFO]: /setidletimeout <minutes>
+[11:39:52] [Server thread/INFO]: /setworldspawn [<pos>]
+[11:39:52] [Server thread/INFO]: /spawnpoint [<targets>]
+[11:39:52] [Server thread/INFO]: /spectate [<target>]
+[11:39:52] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[11:39:52] [Server thread/INFO]: /stop
+[11:39:52] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[11:39:52] [Server thread/INFO]: /summon <entity> [<pos>]
+[11:39:52] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[11:39:52] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[11:39:52] [Server thread/INFO]: /teammsg <message>
+[11:39:52] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[11:39:52] [Server thread/INFO]: /tell -> msg
+[11:39:52] [Server thread/INFO]: /tellraw <targets> <message>
+[11:39:52] [Server thread/INFO]: /time (add|query|set)
+[11:39:52] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[11:39:52] [Server thread/INFO]: /tm -> teammsg
+[11:39:52] [Server thread/INFO]: /tp -> teleport
+[11:39:52] [Server thread/INFO]: /trigger <objective> [add|set]
+[11:39:52] [Server thread/INFO]: /w -> msg
+[11:39:52] [Server thread/INFO]: /weather (clear|rain|thunder)
+[11:39:52] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[11:39:52] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[11:39:52] [Server thread/INFO]: /xp -> experience
+[11:40:23] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[11:40:25] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[11:40:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:40:49] [Server thread/INFO]: pause<--[HERE]
+[11:41:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:41:08] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:41:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:41:17] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[11:43:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:43:41] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:43:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:43:53] [Server thread/INFO]: [Rcon] xxxx
+[11:43:53] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:44:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:44:05] [Server thread/INFO]: [Rcon] xxxx
+[11:44:05] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:44:28] [Server thread/INFO]: Elune2k[/127.0.0.1:61057] logged in with entity id 97 at (9.5, 63.0, 8.5)
+[11:44:30] [Server thread/INFO]: Elune2k joined the game
+[11:44:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9789ms or 195 ticks behind
+[11:44:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:44:49] [Server thread/INFO]: [Rcon] xxxx
+[11:44:49] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[11:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3135ms or 62 ticks behind
+[11:45:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:45:16] [Server thread/INFO]: globalpause<--[HERE]
+[11:45:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:45:20] [Server thread/INFO]: /globalpause<--[HERE]
+[11:45:43] [Server thread/INFO]: /advancement (grant|revoke)
+[11:45:43] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[11:45:43] [Server thread/INFO]: /ban <targets> [<reason>]
+[11:45:43] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[11:45:43] [Server thread/INFO]: /banlist [ips|players]
+[11:45:43] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[11:45:43] [Server thread/INFO]: /clear [<targets>]
+[11:45:43] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[11:45:43] [Server thread/INFO]: /data (get|merge|modify|remove)
+[11:45:43] [Server thread/INFO]: /datapack (disable|enable|list)
+[11:45:43] [Server thread/INFO]: /debug (report|start|stop)
+[11:45:43] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[11:45:43] [Server thread/INFO]: /deop <targets>
+[11:45:43] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[11:45:43] [Server thread/INFO]: /effect (clear|give)
+[11:45:43] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[11:45:43] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[11:45:43] [Server thread/INFO]: /experience (add|query|set)
+[11:45:43] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[11:45:43] [Server thread/INFO]: /forceload (add|query|remove)
+[11:45:43] [Server thread/INFO]: /function <name>
+[11:45:43] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[11:45:43] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[11:45:43] [Server thread/INFO]: /give <targets> <item> [<count>]
+[11:45:43] [Server thread/INFO]: /help [<command>]
+[11:45:43] [Server thread/INFO]: /kick <targets> [<reason>]
+[11:45:43] [Server thread/INFO]: /kill [<targets>]
+[11:45:43] [Server thread/INFO]: /list [uuids]
+[11:45:43] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[11:45:43] [Server thread/INFO]: /locatebiome <biome>
+[11:45:43] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[11:45:43] [Server thread/INFO]: /me <action>
+[11:45:43] [Server thread/INFO]: /msg <targets> <message>
+[11:45:43] [Server thread/INFO]: /op <targets>
+[11:45:43] [Server thread/INFO]: /pardon <targets>
+[11:45:43] [Server thread/INFO]: /pardon-ip <target>
+[11:45:43] [Server thread/INFO]: /particle <name> [<pos>]
+[11:45:43] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[11:45:43] [Server thread/INFO]: /recipe (give|take)
+[11:45:43] [Server thread/INFO]: /reload
+[11:45:43] [Server thread/INFO]: /replaceitem (block|entity)
+[11:45:43] [Server thread/INFO]: /save-all [flush]
+[11:45:43] [Server thread/INFO]: /save-off
+[11:45:43] [Server thread/INFO]: /save-on
+[11:45:43] [Server thread/INFO]: /say <message>
+[11:45:43] [Server thread/INFO]: /schedule (clear|function)
+[11:45:43] [Server thread/INFO]: /scoreboard (objectives|players)
+[11:45:43] [Server thread/INFO]: /seed
+[11:45:43] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[11:45:43] [Server thread/INFO]: /setidletimeout <minutes>
+[11:45:43] [Server thread/INFO]: /setworldspawn [<pos>]
+[11:45:43] [Server thread/INFO]: /spawnpoint [<targets>]
+[11:45:43] [Server thread/INFO]: /spectate [<target>]
+[11:45:43] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[11:45:43] [Server thread/INFO]: /stop
+[11:45:43] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[11:45:43] [Server thread/INFO]: /summon <entity> [<pos>]
+[11:45:43] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[11:45:43] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[11:45:43] [Server thread/INFO]: /teammsg <message>
+[11:45:43] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[11:45:43] [Server thread/INFO]: /tell -> msg
+[11:45:43] [Server thread/INFO]: /tellraw <targets> <message>
+[11:45:43] [Server thread/INFO]: /time (add|query|set)
+[11:45:43] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[11:45:43] [Server thread/INFO]: /tm -> teammsg
+[11:45:43] [Server thread/INFO]: /tp -> teleport
+[11:45:43] [Server thread/INFO]: /trigger <objective> [add|set]
+[11:45:43] [Server thread/INFO]: /w -> msg
+[11:45:44] [Server thread/INFO]: /weather (clear|rain|thunder)
+[11:45:44] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[11:45:44] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[11:45:44] [Server thread/INFO]: /xp -> experience
+[11:46:41] [Server thread/INFO]: Reloading!
+[11:46:41] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:41] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:41] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:46:42] [Server thread/INFO]: Loaded 7 recipes
+[11:46:43] [Server thread/INFO]: Loaded 927 advancements
+[11:46:45] [Server thread/INFO]: Reloading!
+[11:46:45] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:45] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:45] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:45] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11:46:45] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11:46:45] [Server thread/INFO]: Reloading ResourceManager: Default
+[11:46:46] [Server thread/INFO]: Loaded 7 recipes
+[11:46:46] [Server thread/INFO]: Loaded 927 advancements
+[11:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6682ms or 133 ticks behind
+[11:47:25] [Server thread/INFO]: Elune2k was slain by Spider
+[11:47:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:47:44] [Server thread/INFO]: /save all<--[HERE]
+[11:47:48] [Server thread/INFO]: Saving the game (this may take a moment!)
+[11:47:49] [Server thread/INFO]: Saved the game
+[11:48:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:48:23] [Server thread/INFO]: /forceload<--[HERE]
+[11:48:31] [Server thread/INFO]: /advancement (grant|revoke)
+[11:48:31] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[11:48:31] [Server thread/INFO]: /ban <targets> [<reason>]
+[11:48:31] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[11:48:31] [Server thread/INFO]: /banlist [ips|players]
+[11:48:31] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[11:48:31] [Server thread/INFO]: /clear [<targets>]
+[11:48:31] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[11:48:31] [Server thread/INFO]: /data (get|merge|modify|remove)
+[11:48:31] [Server thread/INFO]: /datapack (disable|enable|list)
+[11:48:31] [Server thread/INFO]: /debug (report|start|stop)
+[11:48:31] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[11:48:31] [Server thread/INFO]: /deop <targets>
+[11:48:31] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[11:48:31] [Server thread/INFO]: /effect (clear|give)
+[11:48:31] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[11:48:31] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[11:48:31] [Server thread/INFO]: /experience (add|query|set)
+[11:48:31] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[11:48:31] [Server thread/INFO]: /forceload (add|query|remove)
+[11:48:31] [Server thread/INFO]: /function <name>
+[11:48:31] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[11:48:31] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[11:48:31] [Server thread/INFO]: /give <targets> <item> [<count>]
+[11:48:32] [Server thread/INFO]: /help [<command>]
+[11:48:32] [Server thread/INFO]: /kick <targets> [<reason>]
+[11:48:32] [Server thread/INFO]: /kill [<targets>]
+[11:48:32] [Server thread/INFO]: /list [uuids]
+[11:48:32] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[11:48:32] [Server thread/INFO]: /locatebiome <biome>
+[11:48:32] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[11:48:32] [Server thread/INFO]: /me <action>
+[11:48:32] [Server thread/INFO]: /msg <targets> <message>
+[11:48:32] [Server thread/INFO]: /op <targets>
+[11:48:32] [Server thread/INFO]: /pardon <targets>
+[11:48:32] [Server thread/INFO]: /pardon-ip <target>
+[11:48:32] [Server thread/INFO]: /particle <name> [<pos>]
+[11:48:32] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[11:48:32] [Server thread/INFO]: /recipe (give|take)
+[11:48:32] [Server thread/INFO]: /reload
+[11:48:32] [Server thread/INFO]: /replaceitem (block|entity)
+[11:48:32] [Server thread/INFO]: /save-all [flush]
+[11:48:32] [Server thread/INFO]: /save-off
+[11:48:32] [Server thread/INFO]: /save-on
+[11:48:32] [Server thread/INFO]: /say <message>
+[11:48:32] [Server thread/INFO]: /schedule (clear|function)
+[11:48:32] [Server thread/INFO]: /scoreboard (objectives|players)
+[11:48:32] [Server thread/INFO]: /seed
+[11:48:32] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[11:48:32] [Server thread/INFO]: /setidletimeout <minutes>
+[11:48:32] [Server thread/INFO]: /setworldspawn [<pos>]
+[11:48:32] [Server thread/INFO]: /spawnpoint [<targets>]
+[11:48:32] [Server thread/INFO]: /spectate [<target>]
+[11:48:32] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[11:48:32] [Server thread/INFO]: /stop
+[11:48:32] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[11:48:32] [Server thread/INFO]: /summon <entity> [<pos>]
+[11:48:32] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[11:48:32] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[11:48:32] [Server thread/INFO]: /teammsg <message>
+[11:48:32] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[11:48:32] [Server thread/INFO]: /tell -> msg
+[11:48:32] [Server thread/INFO]: /tellraw <targets> <message>
+[11:48:32] [Server thread/INFO]: /time (add|query|set)
+[11:48:32] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[11:48:32] [Server thread/INFO]: /tm -> teammsg
+[11:48:32] [Server thread/INFO]: /tp -> teleport
+[11:48:32] [Server thread/INFO]: /trigger <objective> [add|set]
+[11:48:32] [Server thread/INFO]: /w -> msg
+[11:48:32] [Server thread/INFO]: /weather (clear|rain|thunder)
+[11:48:32] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[11:48:32] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[11:48:32] [Server thread/INFO]: /xp -> experience
+[11:48:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:48:47] [Server thread/INFO]: ...ceload add<--[HERE]
+[11:48:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:48:54] [Server thread/INFO]: forceload<--[HERE]
+[11:49:00] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:49:00] [Server thread/INFO]: ...ceload add<--[HERE]
+[11:49:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[11:49:04] [Server thread/INFO]: /forceload<--[HERE]
+[11:49:54] [Server thread/INFO]: Gamerule doDaylightCycle is now set to: false
+[11:50:17] [Server thread/INFO]: Gamerule doDaylightCycle is now set to: true
+[11:51:14] [Server thread/INFO]: The difficulty has been set to Peaceful
+[11:51:21] [Server thread/INFO]: The difficulty has been set to Hard
+[11:56:07] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[11:56:07] [Server thread/INFO]: Elune2k left the game
+[11:57:18] [Server thread/INFO]: Elune2k[/127.0.0.1:61369] logged in with entity id 1220 at (1.5507536953580696, 74.0, 9.447083768792108)
+[11:57:18] [Server thread/INFO]: Elune2k joined the game
+[11:59:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[11:59:37] [Server thread/INFO]: [Rcon: Gamerule doDaylightCycle is now set to: false]
+[11:59:37] [RCON Client /127.0.0.1 #10/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:01:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:01:47] [RCON Client /127.0.0.1 #11/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:02:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:02:28] [RCON Client /127.0.0.1 #12/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:03:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:03:08] [RCON Client /127.0.0.1 #13/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:03:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:03:15] [RCON Client /127.0.0.1 #14/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:04:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:04:07] [RCON Client /127.0.0.1 #15/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:06:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:06:12] [Server thread/INFO]: <Elune2k> s
+[12:06:15] [Server thread/INFO]: <Elune2k> teste
+[12:06:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:06:21] [Server thread/INFO]: teste<--[HERE]
+[12:06:23] [Server thread/INFO]: [Server] teste
+[12:06:34] [RCON Client /127.0.0.1 #16/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:07:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:07:53] [RCON Client /127.0.0.1 #17/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:08:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:08:56] [RCON Client /127.0.0.1 #18/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:08:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:08:59] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:09:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:09:01] [RCON Client /127.0.0.1 #20/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:09:17] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[12:09:17] [Server thread/INFO]: Elune2k left the game
+[12:09:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:09:20] [RCON Client /127.0.0.1 #21/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:10:48] [Server thread/INFO]: Elune2k[/127.0.0.1:61488] logged in with entity id 2318 at (-3.6950485349254567, 77.0, 11.26041208592302)
+[12:10:48] [Server thread/INFO]: Elune2k joined the game
+[12:10:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:11:06] [RCON Client /127.0.0.1 #22/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:11:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:11:25] [RCON Client /127.0.0.1 #23/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:11:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:11:31] [RCON Client /127.0.0.1 #24/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:11:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:11:46] [RCON Client /127.0.0.1 #25/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:12:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:12:28] [RCON Client /127.0.0.1 #26/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:12:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:12:37] [RCON Client /127.0.0.1 #27/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:12:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:12:40] [RCON Client /127.0.0.1 #28/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:12:43] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[12:12:43] [Server thread/INFO]: Elune2k left the game
+[12:12:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:12:48] [Server thread/INFO]: Elune2k[/127.0.0.1:61516] logged in with entity id 2493 at (-3.6950485349254567, 77.0, 11.26041208592302)
+[12:12:48] [Server thread/INFO]: Elune2k joined the game
+[12:12:54] [RCON Client /127.0.0.1 #29/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:12:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:13:04] [RCON Client /127.0.0.1 #30/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:13:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:13:05] [RCON Client /127.0.0.1 #31/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:13:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:13:15] [RCON Client /127.0.0.1 #32/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:21:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:21:07] [RCON Client /127.0.0.1 #33/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:21:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:21:27] [RCON Client /127.0.0.1 #34/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:21:29] [Server thread/INFO]: Gamerule doDaylightCycle is now set to: true
+[12:21:39] [Server thread/INFO]: The difficulty did not change; it is already set to hard
+[12:21:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:21:47] [RCON Client /127.0.0.1 #35/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:22:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:22:07] [RCON Client /127.0.0.1 #36/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:22:46] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[12:22:46] [Server thread/INFO]: Elune2k left the game
+[12:22:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:22:49] [RCON Client /127.0.0.1 #37/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:23:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:23:09] [RCON Client /127.0.0.1 #38/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:23:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:23:29] [RCON Client /127.0.0.1 #39/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:23:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:23:49] [RCON Client /127.0.0.1 #40/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:24:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:24:09] [RCON Client /127.0.0.1 #41/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:24:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:24:29] [RCON Client /127.0.0.1 #42/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:00] [RCON Client /127.0.0.1 #43/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:02] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:02] [RCON Client /127.0.0.1 #44/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:04] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:04] [RCON Client /127.0.0.1 #45/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:06] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:06] [RCON Client /127.0.0.1 #46/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:06] [Server thread/INFO]: Elune2k[/127.0.0.1:61606] logged in with entity id 3410 at (-3.7899162031972184, 77.0, 11.789136095795453)
+[12:25:06] [Server thread/INFO]: Elune2k joined the game
+[12:25:08] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:08] [RCON Client /127.0.0.1 #47/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:10] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:10] [RCON Client /127.0.0.1 #48/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:12] [RCON Client /127.0.0.1 #49/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:14] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:14] [RCON Client /127.0.0.1 #50/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:16] [RCON Client /127.0.0.1 #51/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:18] [RCON Client /127.0.0.1 #52/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:18] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[12:25:18] [Server thread/INFO]: Elune2k left the game
+[12:25:20] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:20] [RCON Client /127.0.0.1 #53/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:22] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:22] [RCON Client /127.0.0.1 #54/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:24] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:24] [RCON Client /127.0.0.1 #55/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:26] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:26] [RCON Client /127.0.0.1 #56/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:28] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:28] [RCON Client /127.0.0.1 #57/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:30] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:30] [RCON Client /127.0.0.1 #58/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:32] [RCON Client /127.0.0.1 #59/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:34] [RCON Client /127.0.0.1 #60/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:36] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:36] [RCON Client /127.0.0.1 #61/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:38] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:38] [RCON Client /127.0.0.1 #62/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:40] [RCON Client /127.0.0.1 #63/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:42] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:42] [RCON Client /127.0.0.1 #64/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:44] [RCON Client /127.0.0.1 #65/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:46] [RCON Client /127.0.0.1 #66/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:48] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:48] [RCON Client /127.0.0.1 #67/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:50] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:50] [RCON Client /127.0.0.1 #68/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:52] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:52] [RCON Client /127.0.0.1 #69/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:57] [Server thread/INFO]: [Rcon: Gamerule doDaylightCycle is now set to: false]
+[12:25:57] [Server thread/INFO]: [Rcon: The difficulty has been set to Peaceful]
+[12:25:57] [RCON Client /127.0.0.1 #71/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:25:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:25:59] [RCON Client /127.0.0.1 #73/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:01] [RCON Client /127.0.0.1 #75/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:03] [RCON Client /127.0.0.1 #77/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:05] [RCON Client /127.0.0.1 #79/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:07] [RCON Client /127.0.0.1 #81/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:09] [RCON Client /127.0.0.1 #83/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:11] [RCON Client /127.0.0.1 #85/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:13] [RCON Client /127.0.0.1 #87/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:15] [RCON Client /127.0.0.1 #89/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:17] [RCON Client /127.0.0.1 #91/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:19] [RCON Client /127.0.0.1 #93/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:21] [RCON Client /127.0.0.1 #95/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:23] [RCON Client /127.0.0.1 #97/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:25] [RCON Client /127.0.0.1 #99/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:27] [RCON Client /127.0.0.1 #101/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:29] [RCON Client /127.0.0.1 #103/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:31] [RCON Client /127.0.0.1 #105/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:33] [RCON Client /127.0.0.1 #107/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:35] [RCON Client /127.0.0.1 #109/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:37] [RCON Client /127.0.0.1 #111/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:39] [RCON Client /127.0.0.1 #113/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:41] [RCON Client /127.0.0.1 #115/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:43] [RCON Client /127.0.0.1 #117/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:45] [RCON Client /127.0.0.1 #119/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:47] [RCON Client /127.0.0.1 #121/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:49] [RCON Client /127.0.0.1 #123/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:51] [RCON Client /127.0.0.1 #125/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:53] [RCON Client /127.0.0.1 #127/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:55] [RCON Client /127.0.0.1 #129/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:57] [RCON Client /127.0.0.1 #131/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:26:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:26:59] [RCON Client /127.0.0.1 #133/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:01] [RCON Client /127.0.0.1 #135/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:03] [RCON Client /127.0.0.1 #137/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:05] [RCON Client /127.0.0.1 #139/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:07] [RCON Client /127.0.0.1 #141/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:09] [RCON Client /127.0.0.1 #143/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:11] [RCON Client /127.0.0.1 #145/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:13] [RCON Client /127.0.0.1 #147/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:15] [RCON Client /127.0.0.1 #149/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:17] [RCON Client /127.0.0.1 #151/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:19] [RCON Client /127.0.0.1 #153/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:21] [RCON Client /127.0.0.1 #155/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:23] [RCON Client /127.0.0.1 #157/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:25] [RCON Client /127.0.0.1 #159/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:27] [RCON Client /127.0.0.1 #161/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:29] [RCON Client /127.0.0.1 #163/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:31] [RCON Client /127.0.0.1 #165/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:33] [RCON Client /127.0.0.1 #167/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:35] [RCON Client /127.0.0.1 #169/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:37] [RCON Client /127.0.0.1 #171/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:39] [RCON Client /127.0.0.1 #173/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:41] [RCON Client /127.0.0.1 #175/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:43] [RCON Client /127.0.0.1 #177/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:45] [RCON Client /127.0.0.1 #179/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:47] [RCON Client /127.0.0.1 #181/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:49] [RCON Client /127.0.0.1 #183/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:51] [RCON Client /127.0.0.1 #185/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:53] [RCON Client /127.0.0.1 #187/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:55] [RCON Client /127.0.0.1 #189/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:57] [RCON Client /127.0.0.1 #191/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:27:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:27:59] [RCON Client /127.0.0.1 #193/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:01] [RCON Client /127.0.0.1 #195/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:03] [RCON Client /127.0.0.1 #197/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:05] [RCON Client /127.0.0.1 #199/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:07] [RCON Client /127.0.0.1 #201/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:09] [RCON Client /127.0.0.1 #203/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:11] [RCON Client /127.0.0.1 #205/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:13] [RCON Client /127.0.0.1 #207/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:15] [RCON Client /127.0.0.1 #209/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:17] [RCON Client /127.0.0.1 #211/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:19] [RCON Client /127.0.0.1 #213/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:21] [RCON Client /127.0.0.1 #215/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #204/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #138/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #72/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #144/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #168/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #164/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #176/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #70/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #120/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #74/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #78/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #124/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #108/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #106/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #206/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #186/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #146/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #200/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #194/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #184/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #214/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #190/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #198/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #174/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #208/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #212/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #210/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #180/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #160/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #150/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #156/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #96/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #152/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #188/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #142/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #94/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #132/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #98/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #100/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #104/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #112/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #102/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #130/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #118/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #110/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #122/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #114/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #128/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #158/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #182/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #148/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #162/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #166/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #192/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #170/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #178/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #172/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #196/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #202/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #154/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #88/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #92/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #116/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #86/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #90/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #136/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #84/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #76/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #82/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #80/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #126/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #134/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:22] [RCON Client /127.0.0.1 #140/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:25] [Server thread/INFO]: [Rcon: Gamerule doDaylightCycle is now set to: false]
+[12:28:25] [RCON Client /127.0.0.1 #217/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:27] [RCON Client /127.0.0.1 #219/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:29] [RCON Client /127.0.0.1 #221/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:31] [RCON Client /127.0.0.1 #223/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:33] [RCON Client /127.0.0.1 #225/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:35] [RCON Client /127.0.0.1 #227/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:37] [RCON Client /127.0.0.1 #229/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:39] [RCON Client /127.0.0.1 #231/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:41] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:41] [RCON Client /127.0.0.1 #233/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:43] [RCON Client /127.0.0.1 #235/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:45] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:45] [RCON Client /127.0.0.1 #237/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:46] [Server thread/INFO]: Elune2k[/127.0.0.1:61816] logged in with entity id 3433 at (-4.539922459248231, 76.0, 9.782436474653325)
+[12:28:46] [Server thread/INFO]: Elune2k joined the game
+[12:28:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:47] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:47] [RCON Client /127.0.0.1 #239/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:49] [RCON Client /127.0.0.1 #241/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:51] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:51] [RCON Client /127.0.0.1 #243/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:53] [RCON Client /127.0.0.1 #245/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:55] [RCON Client /127.0.0.1 #247/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:57] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:57] [RCON Client /127.0.0.1 #249/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:59] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:28:59] [RCON Client /127.0.0.1 #251/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:28:59] [Server thread/INFO]: Elune2k lost connection: Disconnected
+[12:28:59] [Server thread/INFO]: Elune2k left the game
+[12:29:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:01] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:01] [Server thread/INFO]: [Rcon: Gamerule doDaylightCycle is now set to: false]
+[12:29:01] [RCON Client /127.0.0.1 #253/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:03] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:03] [RCON Client /127.0.0.1 #255/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:05] [RCON Client /127.0.0.1 #257/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:07] [RCON Client /127.0.0.1 #259/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:09] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:09] [RCON Client /127.0.0.1 #261/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:11] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:11] [RCON Client /127.0.0.1 #263/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:13] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:13] [RCON Client /127.0.0.1 #265/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:15] [RCON Client /127.0.0.1 #267/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:17] [RCON Client /127.0.0.1 #269/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:19] [RCON Client /127.0.0.1 #271/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:21] [RCON Client /127.0.0.1 #273/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:23] [RCON Client /127.0.0.1 #275/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:25] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:25] [RCON Client /127.0.0.1 #277/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:27] [RCON Client /127.0.0.1 #279/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:29] [RCON Client /127.0.0.1 #281/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:31] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:31] [RCON Client /127.0.0.1 #283/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:33] [RCON Client /127.0.0.1 #285/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:35] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:35] [RCON Client /127.0.0.1 #287/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:37] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:37] [RCON Client /127.0.0.1 #289/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[12:29:39] [RCON Client /127.0.0.1 #291/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #224/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #262/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #244/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #284/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #218/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #216/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #220/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #246/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #222/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #270/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #288/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #268/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #282/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #276/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #264/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #258/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #286/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #256/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #260/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #252/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #254/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #274/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #272/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #278/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #240/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #280/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #232/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #234/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #236/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #266/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #238/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #248/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #230/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #242/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #250/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #228/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #226/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:29:40] [RCON Client /127.0.0.1 #290/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[12:32:55] [Server thread/INFO]: Stopping server
+[12:32:55] [Server thread/INFO]: Saving players
+[12:32:55] [Server thread/INFO]: Saving worlds
+[12:32:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:32:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:32:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:32:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:32:55] [Server thread/INFO]: Thread RCON Listener stopped

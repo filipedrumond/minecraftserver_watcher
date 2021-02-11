@@ -1,0 +1,13 @@
+version: '3'
+services:
+    mine-node:
+      build: 
+          context: .
+          dockerfile: Dockerfile
+      container_name: mine-node
+      ports:
+          - "510:80"
+      volumes:
+          - .:/usr/src/app/
+      environment:
+          - APPLICATION_ENV=development
